@@ -1,7 +1,7 @@
 :root {
   --dark-grey: #636372;
-  --light-grey: #f5f6f7;
-  --dark-orange: #1463ff;
+  --white: #f5f6f7;
+  --dark-blue: #1463ff;
 }
 
 body {
@@ -16,16 +16,16 @@ body {
 }
 
 .card {
-  border: 5px solid var(--dark-orange);
+  border: 5px solid var(--dark-blue);
   border-radius: 10px;
   width: 100%;
   padding: 20px;
   margin: 10px 0;
-  background-color: var(--light-grey);
+  background-color: var(--white);
 }
 
 .card-title {
-  border-bottom: 4px solid var(--dark-orange);
+  border-bottom: 4px solid var(--dark-blue);
   width: fit-content;
 }
 

@@ -14,7 +14,7 @@ export function App() {
       id: 1,
       name: "Vanessa Popa",
       title: "Full Stack Software Engineer",
-      bio: "I like to work with React, Node and JavaScript."
+      bio: "Hi! My name is Vanessa, I'm a full stack software engineer and like to work with React."
     },
     {
       id: 2,
@@ -35,11 +35,17 @@ export function App() {
       title: "Front-End developer",
       bio: "I like to work with React and JavaScript."
     },
-        {
+    {
       id: 5,
       name: "Timothy Wilson",
       title: "Back-End Engineer",
       bio: "I have been a software developer for over 20 years and I love working with Go and Rust."
+    },
+    {
+      id: 6,
+      name: "Emily Davis",
+      title: "Frontend Developer",
+      bio: "I like to work with Go and Rust."
     },
   ];
   return (
