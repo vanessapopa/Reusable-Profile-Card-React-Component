@@ -2,7 +2,7 @@
 A simple, static, and reusable profile card component built with React (via CDN) and CSS.
 
 ## Preview
-![Profile Cards](https://github.com/user-attachments/assets/e29df0db-1072-450c-968b-f50877caefc9)
+<img width="1470" height="596" alt="Screenshot 2026-05-10 at 11 25 31 PM" src="https://github.com/user-attachments/assets/102e2b64-8bc1-4568-b62d-0d25181e8eef" />
 
 ## Description
 This project is a small static demo that renders a set of reusable profile cards. Each card shows a name, professional title, and short bio. The project uses React and ReactDOM from CDN and compiles the JSX in the browser with Babel standalone, so no build step or local dependencies are required.
